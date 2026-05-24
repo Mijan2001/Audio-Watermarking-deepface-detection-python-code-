@@ -1,4 +1,4 @@
-# 🎙️ Audio Watermarking for Deepfake Detection
+# 🎙️ Audio Watermarking for Deepfake Detection (code with 4 datasets in only one single code)
 
 A deep-learning pipeline that embeds imperceptible watermarks into audio files across multiple benchmark datasets, enabling reliable detection of AI-generated (deepfake) speech.
 
